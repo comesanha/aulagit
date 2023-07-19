@@ -1,2 +1,5 @@
 test de credential.helper
+<<<<<<< HEAD
 @@@@@@@@@@@@@@@@@@@
+=======
+>>>>>>> 630b2cc5db887db9703feb9ccb9113c9ec224039
